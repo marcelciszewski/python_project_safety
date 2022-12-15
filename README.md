@@ -35,7 +35,7 @@ install.py - contains a reliable and robust script
 Brief Introduction:
 ===================
 
-The E-SAFETY PROJECT QUIZ contains nine, unique and great
+The E-SAFETY PROJECT QUIZ contains eight, unique and great
 scenarios/sets of questions, all containing a range of at
 least 5-8 questions each. Contains modules like:
 - os
