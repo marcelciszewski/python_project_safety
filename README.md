@@ -14,15 +14,10 @@ functions, and utilities to help you get e-safety smart.
 
 Contents:
 =========
-
-demovideos - contains demostration videos on how to use
-	     the utilties and installation utilites 
-	     embedded in the files.
-
-offline_files - contains offline files, in the case of 
-		an unreliable internet connection, or 
-		any other reason. Please note that the
-		-se may not be up-to-date.
+videos + websites - contains offline files, in the case of 
+	            an unreliable internet connection, or 
+		    any other reason. Please note that the
+		    -se may not be up-to-date.
 
 project - contains the powerhouse of the quiz. Easy to
 	  run, via Command Prompt (Windows) or Terminal 
@@ -31,7 +26,7 @@ project - contains the powerhouse of the quiz. Easy to
 	  present in the software (cannot be cleared
 	  and made more user friendly.)
 
-quickinstall.py - contains a reliable and robust script
+install.py - contains a reliable and robust script
 		  in order to download the latest and
 		  greatest E-SAFETY PROJECT QUIZ. 
 		  Simple controls.
