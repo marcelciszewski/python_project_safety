@@ -1,0 +1,53 @@
+What do you mean by ‘geolocation data’?
+
+Geolocation data means data taken from a user's device which indicates the geographical location of that device, including GPS data or data about connection with local wifi equipment.
+
+Why is it important?
+
+Recital 38 to the GDPR states that:
+
+“Children merit specific protection with regard to their personal data, as they may be less aware of the risks, consequences and safeguards concerned and their rights in relation to the processing …..”
+
+The use of geolocation data in relation to children is of particular concern. This is because the ability to ascertain or track the physical location of a child carries with it the risk that the data could be misused to compromise the physical safety of that child. In short it can make children vulnerable to risks such as abduction, physical and mental abuse, sexual abuse and trafficking.
+
+Persistent sharing of location may also mean that children have a diminished sense of their own private space which may affect the development of their sense of their own identity. It may potentially fail to respect the child’s rights under the UNCRC to privacy, freedom of association, and freedom from economic exploitation, irrespective of threats to their physical safety.
+
+Should all geolocation services be controlled by a privacy setting?
+
+For any geolocation data you need to process in order to provide your core service, it is not appropriate to have a privacy setting (as without the processing there is no core service to provide). For example, map services may need to know the user location in order to properly display the required map or direct the user to their chosen destination.
+
+However, you should offer children control over whether and how their personal data is used whenever you can. So any geolocation services that go over and above your core service should be subject to a privacy setting. For example, enhanced mapping services that make recommendations for places to visit based on location.
+
+How can we make sure that we meet this standard?
+
+Ensure geolocation options are off by default
+
+Any geolocation privacy setting you do provide should be switched off by default; with children having to actively change the default setting to allow their geolocation data to be used. The exception to this is if you can demonstrate a compelling reason for a geolocation option to be switched on by default, taking into account the best interests of the child. For example you may be able to argue that metrics needed to measure demand for regional services may be sufficiently un-intrusive to be warranted (taking into account the best interests of the child).
+
+You should also consider at what level of granularity the location needs to be tracked to provide each element of your service. Do not collect more granular detail than you actually need, and offer different settings for different levels of service if appropriate.
+
+Make it obvious to the child that their location is being tracked
+
+You should provide information at the point of sign-up, and each time the service is accessed that alerts the child to the use of geolocation data and prompts them to discuss this with a trusted adult if they don’t understand what it means.
+
+You should also provide a clear indication of when the child’s location is and isn’t being tracked (eg by use of a clear symbol visible to the user), and ensure that location tracking can’t be left on inadvertently or by mistake.
+
+Revert settings which make the child’s location visible to others to ‘off’ after each use
+
+You should make sure that any option which makes the child’s location visible to others is subject to a privacy setting which reverts to ‘off’ after each session. The exception to this is if you can demonstrate that you have a compelling reason to do otherwise taking into account the best interests of the child.
+
+What about PECR?
+
+If the geolocation data that you are processing also meets the definition of ‘location data’ in PECR then you should refer to our Guide to PECR for further guidance, as there are PECR specific requirements you have to meet.
+
+Location data is defined as:
+
+“any data processed in an electronic communications network or by an electronic communications service indicating the geographical position of the terminal equipment of a user of a public electronic communications service, including data relating to —
+
+(f) the latitude, longitude or altitude of the terminal equipment;
+(g) the direction of travel of the user; or
+(h) the time the location information was recorded”.
+
+In other words, it is information collected by a network or service about where the user’s phone or other device is or was located. For example, tracing the location of a mobile phone from data collected by base stations on a mobile phone network.
+
+The PECR rules do not generally include GPS-based location information from smartphones, tablets, sat-navs or other devices, as this data is created and collected independently of the network or service provider. Neither does it include location information collected at a purely local level (eg by wifi equipment installed by businesses offering wifi on their premises).
